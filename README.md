@@ -47,6 +47,6 @@
 ---
 
 ### 🐍 GitHub Snake (contributions)
+<img src="https://raw.githubusercontent.com/almeidajuh/almeidajuh/main/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/almeidajuh/almeidajuh/output/snake.svg" alt="Snake animation" />
 
